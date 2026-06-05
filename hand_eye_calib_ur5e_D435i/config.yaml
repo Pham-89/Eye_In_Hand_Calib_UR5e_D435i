@@ -1,0 +1,5 @@
+# Chessboard information for cv2.findChessboardCorners(), cv2.solvePnP()
+checkerboard_args:
+  XX : 11 # 11 coners in horizontal axis (12 squares)
+  YY : 8  # 8 corners in vertical axis (9 squares)
+  L : 0.02 # size of 1 chessboard 0.03m x 0.03m
