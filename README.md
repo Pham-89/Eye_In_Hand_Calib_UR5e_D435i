@@ -16,7 +16,6 @@ Calibration Intel realsense camera D435i, mounted on gripper of robot arm Univer
     
 2. Softwares
 - the package from my repo
-- Configurate PC
 
 3. PC Configuration
 - Set up real-time scheduling
