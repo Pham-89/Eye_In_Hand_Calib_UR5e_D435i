@@ -20,6 +20,7 @@ Calibration Intel realsense camera D435i, mounted on gripper of robot arm Univer
 3. PC Configuration
 - Set up real-time scheduling
 - Install RTDE driver
+- Install requirements.txt
 - Connect to the Robot via ethernet cable
 - Setting IP address as 172.31.1.201
 - Install SDK and update firmware for the camera
